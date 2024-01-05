@@ -1,0 +1,29 @@
+.calculator {
+    padding: 10px;
+    border-radius: 1em;
+    height: 380px;
+    background-color: rgb(22, 65, 33);
+    margin-top: 100px;
+}
+
+.display-box {
+    /* color: rgb(94, 243, 56); */
+    height: 65%;
+}
+
+#btn {
+    background-color: #050a25;
+}
+
+.btn {
+    background-color: #000000;
+    color: rgb(201, 18, 18);
+    width: 100%;
+    border-radius: 5px;
+    height: 70%;
+    outline: none;
+}
+
+td{
+    padding: 0 .5rem;
+}
